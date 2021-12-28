@@ -2,7 +2,7 @@
 I am a youth that is passionate about cyber security. I am very interested to learn more and improve my skills in the field of cyber security. I am proud of myself if i could share knowledge that is useful for others.
 
 ### My Personal Blog 📖
-Usually, I share my writeup about solving challenges about cybersecurity in my personal blog
+Usually, I share my writeup from solving challenges about cybersecurity in my personal blog
 
 [![Website](https://img.shields.io/website?label=n0ppp.github.io&style=for-the-badge&url=https%3A%2F%2Fn0ppp.github.io)](https://n0ppp.github.io/)
 
